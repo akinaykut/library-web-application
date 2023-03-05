@@ -1,2 +1,3 @@
 # library-web-application
-This is a simple library application which one is using java spring boot and react js.
+
+Çok fazla hata aldığım için sabahlamama rağmen bitiremedim. Biraz uyuduktan sonra bitirmeye çalışacağım. Anlayışınız için teşekkür ederim.
